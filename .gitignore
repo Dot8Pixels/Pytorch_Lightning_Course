@@ -3,3 +3,4 @@ Trial_Code*
 tempCodeRunnerFile.py
 pytorch-lightning_env*
 Data/Dicom
+*.gz
